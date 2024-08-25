@@ -16,8 +16,8 @@ const Header = () => {
                         <div className='header__info__middle'>
                             <h1 className='primary__title header__title'>I'M A FULL STACK DEVELOPER</h1>
                             <p className='header__description text__muted'>
-                                I dissect intricate user experience challenges to engineer
-                                integrity-focused solutions that resonate with billions of users.
+                                I craft innovative solutions as a Full-Stack Developer, tackling complex 
+                                challenges to deliver seamless and impactful user experiences across both front-end and back-end technologies.
                             </p>
                         </div>
                         <Facts />
