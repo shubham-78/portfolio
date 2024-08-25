@@ -1,3 +1,5 @@
 export {default as profile1} from "./profile-1.png"
 export {default as profile2} from "./profile-2.jpeg"
 export {default as profile3} from "./webrtcimg.png"
+export {default as profile4} from "./podcastrimg.png"
+export {default as profile5} from "./portfoilo.png"

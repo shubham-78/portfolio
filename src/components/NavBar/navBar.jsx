@@ -69,10 +69,10 @@ const NavBar = () => {
                 }
             </div>
             <div className='nav__buttons__group'>
-                <button className='btn btn__primary'>
+                <a className='btn btn__primary' href='https://www.linkedin.com/in/shubhamj78' target='__blank'>
                     Hire Me
                     <FaArrowUpRightFromSquare />
-                </button>
+                </a>
                 <FaBarsStaggered className="menu" onClick={() => setShowSidebar(!showSidebar)}></FaBarsStaggered>
             </div>
         </nav>

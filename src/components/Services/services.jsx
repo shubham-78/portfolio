@@ -24,14 +24,15 @@ const Services = () => {
                         </div>
                         <div className='service__middle'>
                             <p className='text__muted description'>
-                                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ratione
-                                voluptatum earum quam tempore, repellat aut vero ut eum, provident accusamus recusandae
-                                eligendi, adipisci sequi reiciendis quisquam? Sapiente optio rerum sequi!
+                                I specialize in creating engaging, intuitive, and responsive user interfaces 
+                                that provide seamless experiences across various devices and platforms. 
+                                My expertise lies in transforming complex design concepts into functional 
+                                and visually appealing web applications.
                             </p>
                         </div>
-                        <div className='service__bottom'>
+                        {/* <div className='service__bottom'>
                             <button className='btn btn__primary'>Read more</button>
-                        </div>
+                        </div> */}
                     </article>
                     {/* End Frontend*/}
 
@@ -44,14 +45,16 @@ const Services = () => {
                         </div>
                         <div className='service__middle'>
                             <p className='text__muted description'>
-                                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ratione
-                                voluptatum earum quam tempore, repellat aut vero ut eum, provident accusamus recusandae
-                                eligendi, adipisci sequi reiciendis quisquam? Sapiente optio rerum sequi!
+                                I specialize in designing and building robust server-side solutions that 
+                                power scalable and efficient applications. My backend development expertise 
+                                spans a variety of technologies and methodologies, enabling me to deliver 
+                                high-performance systems that seamlessly integrate with front-end components 
+                                and third-party services.
                             </p>
                         </div>
-                        <div className='service__bottom'>
+                        {/* <div className='service__bottom'>
                             <button className='btn btn__primary'>Read more</button>
-                        </div>
+                        </div> */}
                     </article>
                     {/* End Backend*/}
 
@@ -64,14 +67,15 @@ const Services = () => {
                         </div>
                         <div className='service__middle'>
                             <p className='text__muted description'>
-                                Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ratione
-                                voluptatum earum quam tempore, repellat aut vero ut eum, provident accusamus recusandae
-                                eligendi, adipisci sequi reiciendis quisquam? Sapiente optio rerum sequi!
+                                System design is at the core of my approach to building scalable, resilient, and 
+                                efficient software solutions. I excel in translating complex requirements into 
+                                robust architectures that meet both functional and non-functional needs, ensuring 
+                                that systems can handle growth and change gracefully.
                             </p>
                         </div>
-                        <div className='service__bottom'>
+                        {/* <div className='service__bottom'>
                             <button className='btn btn__primary'>Read more</button>
-                        </div>
+                        </div> */}
                     </article>
                     {/* End Ui/UX*/}
                 </div>
